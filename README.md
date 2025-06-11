@@ -14,12 +14,6 @@ An interactive, lightweight web-based chatbot that leverages **Google's Gemini 1
 * **Frontend**: HTML5, CSS3, Vanilla JavaScript
 * **AI Model**: Google Gemini 1.5 Flash (via RESTful API)
 
-## 📁 Project Structure
-
-├── index.html       # Main HTML layout
-├── styles.css       # Stylesheet for UI styling
-├── script.js        # Chat logic and API integration
-
 ## 🔧 Setup Instructions
 1. **Clone the repo:**
 ```bash
